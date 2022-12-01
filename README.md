@@ -1,1 +1,1 @@
-# Some utils I make to easily resuse
+# Some utils I make to easily reuse
